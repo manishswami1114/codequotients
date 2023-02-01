@@ -1,6 +1,5 @@
-'use strict'
-console.log(data);
-var data=30;
-console.log(typeof data);
-let num=30;
-console.log(`this is the result $(num)`)
+const sum = 3 + 4;
+const age = 21;
+
+console.log("Sum of " + 3 + " + " + 4 + " = " + sum);
+console.log(`Hi there! I'm John Doe, my age is ${age}.`);
