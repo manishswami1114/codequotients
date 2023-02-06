@@ -34,6 +34,7 @@
 //     }
 // ]
 // document.write(menu.);
+
 const person = {
     firstName: "paneer",
     price: '500'
@@ -46,7 +47,5 @@ const person = {
     
     
   };
-  
-  // Display some data from the object:
   console.log("price of "+person.firstName+" is "+person.price);
   console.log("price of "+menu.firstName+" is "+menu.price);
